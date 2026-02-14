@@ -10,3 +10,45 @@ _________
 
 The following is a summary of my skills.
 
+╔═══════════════════════════════════════════════╗
+║                   FRONT END                   ║
+╠═══════════════════════════════════════════════╣
+║   - Javascript                                ║
+║   - Typescript                                ║
+║   - Tailwind                                  ║
+║   - CSS                                       ║
+║   - HTML                                      ║
+║   - Vite                                      ║
+║   - Sveltekit                                 ║
+║   - A bunch of component libraries            ║
+╠═══════════════════════════════════════════════╣
+║                    BACK END                   ║
+╠═══════════════════════════════════════════════╣
+║   - Java                                      ║
+║   - C++                                       ║
+║   - C                                         ║
+║   - C# (with UIPath)                          ║
+║   - Python                                    ║
+║   - PostgresSQL                               ║
+║   - ExpressJS                                 ║
+║   - NextJS                                    ║
+║   - MongoDB                                   ║
+║   - Supabase                                  ║
+╠═══════════════════════════════════════════════╣
+║                     CLOUD                     ║
+╠═══════════════════════════════════════════════╣
+║   - Cloudflare                                ║
+║   - Vercel                                    ║
+║   - Microservices                             ║
+║   - Serverless                                ║
+║   - Docker                                    ║
+║   - Kubernetes                                ║
+╠═══════════════════════════════════════════════╣
+║                       IT                      ║
+╠═══════════════════════════════════════════════╣
+║   - Linux                                     ║
+║   - Active Directory                          ║
+║   - Desktop Support                           ║
+║   - Computer Imaging                          ║
+║   - Remote Desktop                            ║
+╚═══════════════════════════════════════════════╝
