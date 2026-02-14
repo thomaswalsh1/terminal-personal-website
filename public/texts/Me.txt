@@ -1,0 +1,21 @@
+
+_________         
+\__   __/|\     /|
+   ) (   | )   ( |
+   | |   | | _ | |
+   | |   | |( )| |
+   | |   | || || |
+   | |   | () () |
+   )_(   (_______)
+
+My name is Thomas Walsh and I am a student at UMass Amherst (class of 2027).
+I study Computer Science, and I also teach at the UMass BJJ Club sometimes.
+
+I am interested in a lot of different fields right now, and I'm not sure
+what I really want to do as a career. The Tech industry is changing rapidly, 
+accelerated by the use of LLMs and Machine Learning.
+
+Right now, I am interested in Linux SysAdmin, IT Infrastructure,
+Cloud Engineering, Full Stack, UI/UX, and more!
+
+Navigate through my terminal to learn more about what I do :)

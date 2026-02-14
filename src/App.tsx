@@ -1,4 +1,5 @@
 import './App.css'
+import MyTerminal from './MyTerminal'
 
 function App() {
 
@@ -7,6 +8,7 @@ function App() {
       <div>
         <h1>Welcome to my terminal app!</h1>
         <p>by Tom</p>
+        <MyTerminal />
       </div>
     </>
   )
