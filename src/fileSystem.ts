@@ -19,7 +19,7 @@ export const fileSystem = {
           'Education.txt': 'Education details.',
         },
         Blog: {
-          'Feb 8th.txt': 'Blog post for Feb 8th.',
+          '2_14_26.txt': 'Blog post for Feb 14th.',
         },
         Skills: {
           'Frontend.txt': 'Frontend skills.',
