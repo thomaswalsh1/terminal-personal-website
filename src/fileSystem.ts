@@ -10,7 +10,10 @@ export const fileSystem = {
           'Experience.txt': 'Here are some details about my work experience.',
         },
         Projects: {
-          'Project1.txt': 'Details about Project1.',
+          'LinuxLearner.txt': 'Details about LinuxLearner.',
+          'IBMFullStack.txt': 'Details about my IBM Full Stack Capstone.',
+          'Vent.txt': 'Details about the Vent App.',
+          'SuperAI.txt': 'Details about the SuperAI.',
         },
         Education: {
           'Education.txt': 'Education details.',

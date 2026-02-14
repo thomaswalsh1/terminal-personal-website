@@ -1,0 +1,15 @@
+
+_________         
+\__   __/|\     /|
+   ) (   | )   ( |
+   | |   | | _ | |
+   | |   | |( )| |     LINUXLEARNER:
+   | |   | || || |
+   | |   | () () |
+   )_(   (_______)
+
+LinuxLearner is an open-source project I have been working on that allows
+for the seamless practice and memorization of the commands featured in
+the CompTIA Linux+ V8 exam. Built in primarily in C, LinuxLearner uses a
+terminal-style GUI provided by the ncurses library to run the user through
+different sets of exercises in their own shell.

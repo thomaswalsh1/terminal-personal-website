@@ -1,0 +1,14 @@
+
+_________         
+\__   __/|\     /|
+   ) (   | )   ( |
+   | |   | | _ | |
+   | |   | |( )| |     VENT:
+   | |   | || || |
+   | |   | () () |
+   )_(   (_______)
+
+Although no longer actively supported, Vent is a journaling application and 
+social media app created with Express.js, Vite, React, Tailwind, and MongoDB.
+Designed to foster long-form information sharing, users can create and share
+journal entries with other users using a rich text editor.
