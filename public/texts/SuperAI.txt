@@ -8,6 +8,7 @@ _________
    | |   | () () |
    )_(   (_______)
 
-A project created as part of HackUMass XII, SuperAI is an app that collects responses
-from four different LLMs judging the relevance, accuracy, coherence, and completeness of
-the responses using SvelteKit, Llama, Mixtral, Gemma, Wolfram, Tailwind, and Cloudflare.
+A project created as part of HackUMass XII, SuperAI is an app that
+collects responses from four different LLMs judging the relevance,
+accuracy, coherence, and completeness of the responses using
+SvelteKit, Llama, Mixtral, Gemma, Wolfram, Tailwind, and Cloudflare.

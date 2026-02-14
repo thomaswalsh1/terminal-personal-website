@@ -9,8 +9,8 @@ _________
    )_(   (_______)
 
 Final capstone project for the IBM Full Stack Developer Certification.
-It is a mock car dealership website created using React, Django, MongoDB, Microservices,
-and other tools. This website also includes AI integration via microservices
-powered by Kubernetes.
+It is a mock car dealership website created using React, Django, MongoDB,
+Microservices, and other tools. This website also includes AI
+integration via microservices powered by Kubernetes.
 
 Overall, this was a fun project. I learned a lot from the IBM Full Stack course in general.

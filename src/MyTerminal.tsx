@@ -4,6 +4,7 @@ import { processCommand } from "./commands";
 import  { printAscii } from "./AsciiAssets"
 
 import "./MyTerminal.css";
+import type { ITerminalOptions } from "@xterm/xterm";
 
 const art = `
  _________         
@@ -16,11 +17,11 @@ const art = `
    )_(   (_______)
 `;
 
-const terminalSettings = {
+
+const terminalSettings: ITerminalOptions = {
   cursorStyle: "block",
   cursorBlink: true,
   fontSize: 20,
-  cols: 100,
   theme: {
     background: "#1e1e1e",
     foreground: "#ffffff",
