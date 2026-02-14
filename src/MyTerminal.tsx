@@ -20,6 +20,7 @@ const terminalSettings = {
   cursorStyle: "block",
   cursorBlink: true,
   fontSize: 20,
+  cols: 100,
   theme: {
     background: "#1e1e1e",
     foreground: "#ffffff",
@@ -51,7 +52,7 @@ const MyTerminal = () => {
           instance.writeln("");
           const result = processCommand(inputRef.current, cwd, setCwd);
           result.execute(instance);
-
+          
           // Use the new cwd if it changed, otherwise use current
           const displayCwd = result.newCwd || cwd;
           const cwdString =

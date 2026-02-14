@@ -50,10 +50,15 @@ function printFile(instance: any, file: string) {
         })
         .then(text => {
             text.split('\n').forEach(line => instance.writeln(line));
+
+            setTimeout(() => {
+                if (instance.scrollToLine) instance.scrollToTop();
+            }, 0);
         })
         .catch(() => {
             instance.writeln(`open: ${file}: No such file`);
         });
+
 }
 
 // In Commands.ts - change return type
@@ -130,6 +135,7 @@ export const processCommand = (
                     } else if (typeof node === "string") {
                         // print the file
                         printFile(instance, args[0]);
+                        console.log("We are in after print file")
                     } else if (typeof node === "object") {
                         instance.writeln(`open: ${args[0]}: Is a directory`);
                     }

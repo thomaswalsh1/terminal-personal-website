@@ -1,0 +1,65 @@
+
+_________         
+\__   __/|\     /|
+   ) (   | )   ( |
+   | |   | | _ | |
+   | |   | |( )| |     EXPERIENCE
+   | |   | || || |
+   | |   | () () |
+   )_(   (_______)
+
+The following is a list of work experiences I've had thus far:
+
+╔═══════════════════════╦═════════════════════════════╦════════════════════╗
+║  JAN 2026 - MAY 2026  ║          IT INTERN          ║       HP HOOD      ║
+╠═══════════════════════╩═════════════════════════════╩════════════════════╣
+║ This internship is currently ongoing, but so far, I have done:           ║
+║       - Cloud Automation with UI Path                                    ║
+║       - Active Directory user management                                 ║
+║       - Computer Image Deployment                                        ║
+║       - Application Testing                                              ║
+╠═══════════════════════╦═════════════════════════════╦════════════════════╣
+║ JUNE 2025 - SEPT 2025 ║ SOFTWARE DEVELOPMENT INTERN ║       VIERRA       ║
+╠═══════════════════════╩═════════════════════════════╩════════════════════╣
+║       - Translated Figma design prototypes into responsive,              ║
+║         production-ready code using modern front-end technologies.       ║
+║       - Collaborated with cross-functional teammates to align design     ║
+║         specifications with development requirements.                    ║
+║       - Participated in code reviews and team discussions to improve     ║
+║         workflow and maintain code quality.                              ║
+╠═══════════════════════╦═════════════════════════════╦════════════════════╣
+║  JAN 2025 - MAY 2025  ║      SOFTWARE DEVELOPER     ║     FREQ.SOCIAL    ║
+╠═══════════════════════╩═════════════════════════════╩════════════════════╣
+║       - Contributed to the development of Freq.Social, a music-sharing   ║
+║         social media platform, as part of UMass Amherst’s Initiative     ║
+║         for Digital Public Infrastructure.                               ║
+║       - Implemented front-end features and user interfaces in a          ║
+║         SvelteKit stack, translating design requirements into responsive,║
+║         accessible components.                                           ║
+║       - Tested, debugged, and maintained core functionality to ensure    ║
+║         platform stability and a seamless user experience.               ║
+║       - Collaborated with local music communities to gather user         ║
+║         requirements, aligning product development with community needs. ║
+╠═══════════════════════╦═════════════════════════════╦════════════════════╣
+║ JUNE 2024 - SEPT 2024 ║     IT HELP DESK INTERN     ║ TUNNELL CONSULTING ║
+╠═══════════════════════╩═════════════════════════════╩════════════════════╣
+║       - Provided technical support at the IT Help Desk for a life        ║
+║         sciences consulting firm, resolving issues and ensuring smooth   ║
+║         day-to-day operations.                                           ║
+║       - Maintained IT documentation and project records, improving       ║
+║         knowledge sharing and accessibility for internal teams and       ║
+║         clients.                                                         ║
+║       - Assisted with customer onboarding and IT training, enabling      ║
+║         employees and clients to efficiently access enterprise software  ║
+║         and systems.                                                     ║
+║       - Developed scripts to organize and analyze IT and project data,   ║
+║         enhancing visibility into system performance and client activity.║
+╠═══════════════════════╦═════════════════════════════╦════════════════════╣
+║ JUNE 2023 - SEPT 2023 ║       CABLE TECHNICIAN      ║      KTS INC.      ║
+╠═══════════════════════╩═════════════════════════════╩════════════════════╣
+║       - Assisted experienced ICT technicians with data cable             ║
+║         installation.                                                    ║
+║       - Gained experience with the installation of CAT 6A, CAT 6,        ║
+║         and fiber optic cable.                                           ║
+╚══════════════════════════════════════════════════════════════════════════╝
+

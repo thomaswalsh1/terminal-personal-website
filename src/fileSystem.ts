@@ -4,10 +4,10 @@ export const fileSystem = {
       thomas: {
         'README.txt': 'Welcome to your home directory, thomas!',
         About: {
-          'Me.txt': 'This is the Me.txt file.',
+          'Me.txt': 'Here is some quick info about Thomas',
         },
         Experience: {
-          'Workplace1.txt': 'Details about Workplace1.',
+          'Experience.txt': 'Here are some details about my work experience.',
         },
         Projects: {
           'Project1.txt': 'Details about Project1.',
