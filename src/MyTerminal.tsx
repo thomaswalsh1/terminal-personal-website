@@ -1,4 +1,4 @@
-import React, { useRef, useEffect, useState } from "react";
+import { useRef, useEffect, useState } from "react";
 import { useXTerm } from "react-xtermjs";
 import { processCommand } from "./commands";
 import  { printAscii } from "./AsciiAssets"
@@ -48,7 +48,7 @@ const MyTerminal = () => {
       }
 
       // Listen for key events
-      const disposable = instance.onKey(({ key, domEvent }) => {
+      const disposable = instance.onKey(({ domEvent }) => {
         if (domEvent.key === "Enter") {
           instance.writeln("");
           const result = processCommand(inputRef.current, cwd, setCwd);
