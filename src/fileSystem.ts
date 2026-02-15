@@ -2,7 +2,6 @@ export const fileSystem = {
     '': { // root directory
         home: {
             thomas: {
-                'README.txt': 'Welcome to your home directory, thomas!',
                 About: {
                     'Me.txt': 'Here is some quick info about Thomas',
                 },
